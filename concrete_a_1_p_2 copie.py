@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 sciper = 391884
 sciper_list = [int(chiffre) for chiffre in str(sciper)]
 print(sciper_list)
